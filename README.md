@@ -1,6 +1,5 @@
 ![](https://github.com/Nishi701/Nishi701/blob/main/Untitled%20(3).png)
 <h1 align="center">Hi 👋, I'm Nishi Singh</h1>
-![Views](https://komarev.com/ghpvc/?username=Nishi701&style=flat&color=gray&label=)
 <h3 align="center">A passionate Web Developer on the journey to becoming a Full Stack Software Engineer.</h3>
 <img align="right" alt="coding" width="400" src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292">
 
