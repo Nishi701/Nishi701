@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Nishi Singh</h1>
 
 <h3 align="center">A passionate Web Developer on the journey to becoming a Full Stack Software Engineer.</h3>
+More actions
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishi701&label=Profile%20views&color=0e75b6&style=flat" alt="Nishi701" /> </p>
+
 <img align="right" alt="coding" width="400" src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292">
+
 
 - 🌱 I’m currently leveling up my skills in:  <br/>**⚙️ Backend Engineering (Node.js, -APIs, JWT Auth) 💡 Data Structures & Algorithms (Leet / neetCode )   🏗️ System Design & Scalable Architectures**
 
