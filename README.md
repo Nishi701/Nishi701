@@ -1,6 +1,6 @@
 ![](https://github.com/Nishi701/Nishi701/blob/main/Untitled%20(3).png)
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=👋Hi%2C+I'm+Nishi+Singh;A+Web+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Blockchain+DApp+Builder;Open+Source+Contributor;Future+Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nishi+Singh;A+Web+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Blockchain+DApp+Builder;Open+Source+Contributor;Future+Full+Stack+Engineer" alt="Typing SVG" />
 </h2>
 
 
