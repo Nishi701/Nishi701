@@ -11,7 +11,13 @@ More actions
 <img align="right" alt="coding" width="400" src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292">
 
 
-- 🌱 I’m currently leveling up my skills in:  <br/>**⚙️ Backend Engineering (Node.js, -APIs, JWT Auth) 💡 Data Structures & Algorithms (Leet / neetCode )   🏗️ System Design & Scalable Architectures**
+-🌱 Currently Leveling Up In:
+⚙️ Backend Engineering: Node.js, REST APIs, JWT Auth
+
+💡 Data Structures & Algorithms: LeetCode / NeetCode
+
+🏗️ System Design & Scalable Architectures
+
 
 - 💬 Ask me about **JavaScript, React**
 
