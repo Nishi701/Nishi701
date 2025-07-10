@@ -11,7 +11,8 @@ More actions
 <img align="right" alt="coding" width="400" src="https://imgvisuals.com/cdn/shop/products/animated-female-coder-character-402691.gif?v=1698899292">
 
 
--🌱 Currently Leveling Up In:
+- 🌱 Currently Leveling Up In:
+
 ⚙️ Backend Engineering: Node.js, REST APIs, JWT Auth
 
 💡 Data Structures & Algorithms: LeetCode / NeetCode
