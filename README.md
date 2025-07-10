@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">A passionate Web Developer on the journey to becoming a Full Stack Software Engineer.</h3>
+<h3 align="center">A passionate Web Developer on the journey to becoming a Full Stack Software Developer.</h3>
 More actions
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishi701&label=Profile%20views&color=0e75b6&style=flat" alt="Nishi701" /> </p>
 
