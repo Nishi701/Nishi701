@@ -1,5 +1,8 @@
 ![](https://github.com/Nishi701/Nishi701/blob/main/Untitled%20(3).png)
-<h1 align="center">Hi 👋, I'm Nishi Singh</h1>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/👋Hi,%20I'm%20Nishi%20Singh-Web%20Developer%20|%20Builder-orange?style=for-the-badge&logo=bitcoin&logoColor=white" />
+</h2>
+
 
 <h3 align="center">A passionate Web Developer on the journey to becoming a Full Stack Software Engineer.</h3>
 More actions
