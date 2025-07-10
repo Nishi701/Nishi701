@@ -1,7 +1,8 @@
 ![](https://github.com/Nishi701/Nishi701/blob/main/Untitled%20(3).png)
 <h2 align="center">
-  <img src="https://img.shields.io/badge/👋Hi,%20I'm%20Nishi%20Singh-Web%20Developer%20|%20Builder-orange?style=for-the-badge&logo=bitcoin&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=👋Hi%2C+I'm+Nishi+Singh;A+Web+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Blockchain+DApp+Builder;Open+Source+Contributor;Future+Full+Stack+Engineer" alt="Typing SVG" />
 </h2>
+
 
 
 <h3 align="center">A passionate Web Developer on the journey to becoming a Full Stack Software Engineer.</h3>
