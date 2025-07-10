@@ -75,9 +75,8 @@ More actions
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
     </a>
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="Rust" width="40" height="40"/>
-</a>
-
+      <img src="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg" alt="Rust Ferris" width="40" height="40"/>
+    </a>
   </li>
 </ul>
 
