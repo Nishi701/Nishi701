@@ -119,9 +119,14 @@ More actions
 </ul>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Nishi701/Nishi701" />
-  <img src="https://img.shields.io/github/languages/count/Nishi701/Nishi701" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
+
 
 
 
