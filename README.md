@@ -118,9 +118,11 @@ More actions
 
 </ul>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishi701&layout=compact&cache_seconds=86400)
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Nishi701/Nishi701" />
+  <img src="https://img.shields.io/github/languages/count/Nishi701/Nishi701" />
+</p>
 
-![Stats](https://YOUR-VERCEL-NAME.vercel.app/api?username=nishi701)
 
 
 
