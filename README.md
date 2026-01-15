@@ -13,7 +13,7 @@ More actions
 
 - 🌱 Currently Leveling Up In:
 
-⚙️ Backend Engineering: Node.js, REST APIs, JWT Auth
+⚙️ Backend Engineering: Java springboot, REST APIs, JWT Auth
 
 💡 Data Structures & Algorithms: LeetCode / NeetCode
 
@@ -55,6 +55,12 @@ More actions
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  </a>
   </li>
 
   <li>
