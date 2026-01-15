@@ -118,7 +118,8 @@ More actions
 
 </ul>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishi701&layout=compact&theme=default)
+![Top Languages](https://api-github-readme-stats.vercel.app/api/top-langs/?username=nishi701&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishi701&show_icons=true&theme=default)
+![GitHub Stats](https://api-github-readme-stats.vercel.app/api?username=nishi701&show_icons=true)
+
 
