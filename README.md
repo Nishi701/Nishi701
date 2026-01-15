@@ -118,8 +118,9 @@ More actions
 
 </ul>
 
-![Top Languages](https://api-github-readme-stats.vercel.app/api/top-langs/?username=nishi701&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishi701&layout=compact&cache_seconds=86400)
 
-![GitHub Stats](https://api-github-readme-stats.vercel.app/api?username=nishi701&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishi701&show_icons=true&cache_seconds=86400)
+
 
 
