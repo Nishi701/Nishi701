@@ -103,6 +103,13 @@ More actions
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/Nishi701/Nishi701" />
+  <img src="https://img.shields.io/github/languages/count/Nishi701/Nishi701" />
+  <img src="https://img.shields.io/github/contributors/Nishi701/Nishi701" />
+</p>
+
+
 
 
 
