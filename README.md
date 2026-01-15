@@ -118,10 +118,7 @@ More actions
 
 </ul>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishi701&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="nishi701" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishi701&layout=compact&theme=default)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishi701&show_icons=true&locale=en" alt="nishi701" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishi701&show_icons=true&theme=default)
 
