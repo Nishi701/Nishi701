@@ -29,6 +29,9 @@ More actions
 <a href="https://linkedin.com/in/nishi-singh-495073282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishi singh" height="30" width="40" /></a>
 <a href="https://instagram.com/nishhi99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nis_hi_701" height="30" width="40" /></a>
 <a href="https://youtube.com/@thecrazytechiee?si=8CQhJiAyC0Rr7xwk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="herecrazytechie" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nishi701/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40" />
+  </a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
